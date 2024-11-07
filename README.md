@@ -14,3 +14,19 @@ mac
 ```shell
 curl -sSL https://raw.githubusercontent.com/jeffcail/build-kilo-c/refs/heads/master/install.sh | bash
 ```
+
+#### 常用命令
+```shell
+kilo filename    # 打开文件
+↑                # 上移
+↓                # 下移
+←                # 左移
+→                # 右移
+fn ↑             # 上翻页
+fn ↓             # 下翻页
+fn ←             # 移到行首
+fn →             # 移到行尾
+ctrl s           # 保存
+ctrl q           # 退出
+ctrl f           # 搜索
+```
