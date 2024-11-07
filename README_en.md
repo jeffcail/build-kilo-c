@@ -9,14 +9,6 @@
 > Build Your Own Text Editor https://viewsourcecode.org/snaptoken/kilo/
 
 
-
-#### Install
-mac
-```shell
-curl -sSL https://raw.githubusercontent.com/jeffcail/build-kilo-c/refs/heads/master/install.sh | bash
-```
-
-
 #### Common commands
 ```shell
 kilo filename # Open file
